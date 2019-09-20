@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [FREE SauceDemo Application Test Automation Test Suite]">
+  <listeners>
+    <listener class-name="com.saucedemo.qa.extentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test name="Free SauceDemo App Test Cases(failed)">
+    <classes>
+      <class name="com.saucedemo.qa.testcases.OrderFinishPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="fakeclickOnlogoutBtnTest"/>
+        </methods>
+      </class> <!-- com.saucedemo.qa.testcases.OrderFinishPageTest -->
+    </classes>
+  </test> <!-- Free SauceDemo App Test Cases(failed) -->
+</suite> <!-- Failed suite [FREE SauceDemo Application Test Automation Test Suite] -->

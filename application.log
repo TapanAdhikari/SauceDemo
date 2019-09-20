@@ -1,0 +1,64 @@
+2019-09-19 23:16:57,466  INFO [main] TestBase:50 - Launching Chrome Browser
+2019-09-19 23:17:01,687  INFO [main] TestBase:69 - Entering Application URL
+2019-09-19 23:17:03,102  INFO [main] TestBase:42 - Browser Closing
+2019-09-19 23:17:09,081  INFO [main] TestBase:50 - Launching Chrome Browser
+2019-09-19 23:17:13,273  INFO [main] TestBase:69 - Entering Application URL
+2019-09-19 23:17:15,369  INFO [main] TestBase:56 - Closing Browser
+2019-09-19 23:17:21,527  INFO [main] TestBase:50 - Launching Chrome Browser
+2019-09-19 23:17:25,699  INFO [main] TestBase:69 - Entering Application URL
+2019-09-19 23:17:33,414  INFO [main] TestBase:50 - Launching Chrome Browser
+2019-09-19 23:17:37,602  INFO [main] TestBase:69 - Entering Application URL
+2019-09-19 23:17:40,115  INFO [main] TestBase:58 - Closing Browser
+2019-09-19 23:17:45,492  INFO [main] TestBase:50 - Launching Chrome Browser
+2019-09-19 23:17:49,662  INFO [main] TestBase:69 - Entering Application URL
+2019-09-19 23:17:52,710  INFO [main] TestBase:63 - Closing Browser
+2019-09-19 23:17:58,048  INFO [main] TestBase:50 - Launching Chrome Browser
+2019-09-19 23:18:02,255  INFO [main] TestBase:69 - Entering Application URL
+2019-09-19 23:18:05,938  INFO [main] TestBase:78 - Closing Browser
+2019-09-19 23:18:11,301  INFO [main] TestBase:50 - Launching Chrome Browser
+2019-09-19 23:18:15,515  INFO [main] TestBase:69 - Entering Application URL
+2019-09-19 23:18:19,384  INFO [main] TestBase:77 - Closing Browser
+2019-09-19 23:18:24,676  INFO [main] TestBase:50 - Launching Chrome Browser
+2019-09-19 23:18:28,860  INFO [main] TestBase:69 - Entering Application URL
+2019-09-19 23:18:30,132  INFO [main] TestBase:42 - Browser Closing
+2019-09-19 23:18:36,196  INFO [main] TestBase:50 - Launching Chrome Browser
+2019-09-19 23:18:40,375  INFO [main] TestBase:69 - Entering Application URL
+2019-09-19 23:18:41,652  INFO [main] TestBase:56 - Closing Browser
+2019-09-19 23:18:47,645  INFO [main] TestBase:50 - Launching Chrome Browser
+2019-09-19 23:18:51,828  INFO [main] TestBase:69 - Entering Application URL
+2019-09-19 23:18:59,351  INFO [main] TestBase:50 - Launching Chrome Browser
+2019-09-19 23:19:03,572  INFO [main] TestBase:69 - Entering Application URL
+2019-09-19 23:19:07,566  INFO [main] TestBase:58 - Closing Browser
+2019-09-19 23:19:12,952  INFO [main] TestBase:50 - Launching Chrome Browser
+2019-09-19 23:19:17,171  INFO [main] TestBase:69 - Entering Application URL
+2019-09-19 23:19:20,112  INFO [main] TestBase:63 - Closing Browser
+2019-09-19 23:19:25,491  INFO [main] TestBase:50 - Launching Chrome Browser
+2019-09-19 23:19:29,683  INFO [main] TestBase:69 - Entering Application URL
+2019-09-19 23:19:32,482  INFO [main] TestBase:78 - Closing Browser
+2019-09-19 23:19:37,804  INFO [main] TestBase:50 - Launching Chrome Browser
+2019-09-19 23:19:41,996  INFO [main] TestBase:69 - Entering Application URL
+2019-09-19 23:19:45,980  INFO [main] TestBase:77 - Closing Browser
+2019-09-19 23:19:51,485  INFO [main] TestBase:50 - Launching Chrome Browser
+2019-09-19 23:19:55,667  INFO [main] TestBase:69 - Entering Application URL
+2019-09-19 23:19:57,517  INFO [main] TestBase:56 - Closing Browser
+2019-09-19 23:20:03,482  INFO [main] TestBase:50 - Launching Chrome Browser
+2019-09-19 23:20:07,682  INFO [main] TestBase:69 - Entering Application URL
+2019-09-19 23:20:14,368  INFO [main] TestBase:78 - Closing Browser
+2019-09-19 23:20:19,712  INFO [main] TestBase:50 - Launching Chrome Browser
+2019-09-19 23:20:23,894  INFO [main] TestBase:69 - Entering Application URL
+2019-09-19 23:20:32,118  INFO [main] TestBase:50 - Launching Chrome Browser
+2019-09-19 23:20:36,297  INFO [main] TestBase:69 - Entering Application URL
+2019-09-19 23:20:39,210  INFO [main] TestBase:77 - Closing Browser
+2019-09-19 23:20:44,686  INFO [main] TestBase:50 - Launching Chrome Browser
+2019-09-19 23:20:48,883  INFO [main] TestBase:69 - Entering Application URL
+2019-09-19 23:21:02,237  INFO [main] TestBase:77 - Closing Browser
+2019-09-19 23:21:02,795 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-19 23:21:02,796 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-19 23:21:02,798 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-19 23:21:02,798 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-19 23:21:02,799 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/GITA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-19 23:21:03,105 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-19 23:21:03,105 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-19 23:21:03,105 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-19 23:21:03,106 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-19 23:21:03,106 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/GITA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

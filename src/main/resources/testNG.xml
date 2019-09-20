@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FREE SauceDemo Application Test Automation Test Suite">
+
+	<listeners>
+		<listener class-name="com.saucedemo.qa.extentReportListener.ExtentReporterNG" />
+	</listeners>
+
+	<test name="Free SauceDemo App Test Cases">
+		<classes>
+			<class name="com.saucedemo.qa.testcases.LoginPageTest"></class>
+			<class name="com.saucedemo.qa.testcases.HomePageTest"></class>
+			<class name="com.saucedemo.qa.testcases.SauceLabsBackpackPageTest"></class>
+			<class name="com.saucedemo.qa.testcases.YourCartPageTest"></class>
+			<class name="com.saucedemo.qa.testcases.CheckOutPageTest"></class>
+			<class name="com.saucedemo.qa.testcases.CheckOutConfirmPageTest"></class>
+			<class name="com.saucedemo.qa.testcases.OrderFinishPageTest"></class>
+			
+
+		</classes>
+	</test>
+</suite>

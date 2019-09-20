@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="19" passed="18">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FREE SauceDemo Application Test Automation Test Suite" duration-ms="250969" started-at="2019-09-20T03:16:51Z" finished-at="2019-09-20T03:21:02Z">
+    <groups>
+    </groups>
+    <test name="Free SauceDemo App Test Cases" duration-ms="250969" started-at="2019-09-20T03:16:51Z" finished-at="2019-09-20T03:21:02Z">
+      <class name="com.saucedemo.qa.testcases.SauceLabsBackpackPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.saucedemo.qa.testcases.SauceLabsBackpackPageTest@13a5fe33]" name="setUp" is-config="true" duration-ms="11352" started-at="2019-09-19T23:17:16Z" finished-at="2019-09-19T23:17:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHeaderLabel()[pri:1, instance:com.saucedemo.qa.testcases.SauceLabsBackpackPageTest@13a5fe33]" name="verifyHeaderLabel" duration-ms="58" started-at="2019-09-19T23:17:27Z" finished-at="2019-09-19T23:17:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHeaderLabel -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.SauceLabsBackpackPageTest@13a5fe33]" name="tearDown" is-config="true" duration-ms="678" started-at="2019-09-19T23:17:27Z" finished-at="2019-09-19T23:17:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.saucedemo.qa.testcases.SauceLabsBackpackPageTest@13a5fe33]" name="setUp" is-config="true" duration-ms="10951" started-at="2019-09-19T23:18:42Z" finished-at="2019-09-19T23:18:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnAddtoCartTest()[pri:2, instance:com.saucedemo.qa.testcases.SauceLabsBackpackPageTest@13a5fe33]" name="clickOnAddtoCartTest" duration-ms="89" started-at="2019-09-19T23:18:53Z" finished-at="2019-09-19T23:18:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAddtoCartTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.SauceLabsBackpackPageTest@13a5fe33]" name="tearDown" is-config="true" duration-ms="692" started-at="2019-09-19T23:18:53Z" finished-at="2019-09-19T23:18:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.saucedemo.qa.testcases.SauceLabsBackpackPageTest@13a5fe33]" name="setUp" is-config="true" duration-ms="11447" started-at="2019-09-19T23:20:14Z" finished-at="2019-09-19T23:20:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnShoppingCartBadgeTest()[pri:3, instance:com.saucedemo.qa.testcases.SauceLabsBackpackPageTest@13a5fe33]" name="clickOnShoppingCartBadgeTest" duration-ms="131" started-at="2019-09-19T23:20:25Z" finished-at="2019-09-19T23:20:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnShoppingCartBadgeTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.SauceLabsBackpackPageTest@13a5fe33]" name="tearDown" is-config="true" duration-ms="684" started-at="2019-09-19T23:20:25Z" finished-at="2019-09-19T23:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.qa.testcases.SauceLabsBackpackPageTest -->
+      <class name="com.saucedemo.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.saucedemo.qa.testcases.HomePageTest@527740a2]" name="setUp" is-config="true" duration-ms="11508" started-at="2019-09-19T23:17:03Z" finished-at="2019-09-19T23:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTest()[pri:1, instance:com.saucedemo.qa.testcases.HomePageTest@527740a2]" name="verifyHomePageTest" duration-ms="79" started-at="2019-09-19T23:17:15Z" finished-at="2019-09-19T23:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.HomePageTest@527740a2]" name="tearDown" is-config="true" duration-ms="683" started-at="2019-09-19T23:17:15Z" finished-at="2019-09-19T23:17:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.saucedemo.qa.testcases.HomePageTest@527740a2]" name="setUp" is-config="true" duration-ms="10784" started-at="2019-09-19T23:18:30Z" finished-at="2019-09-19T23:18:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="veriFyProductsLabelTest()[pri:2, instance:com.saucedemo.qa.testcases.HomePageTest@527740a2]" name="veriFyProductsLabelTest" duration-ms="49" started-at="2019-09-19T23:18:41Z" finished-at="2019-09-19T23:18:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veriFyProductsLabelTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.HomePageTest@527740a2]" name="tearDown" is-config="true" duration-ms="676" started-at="2019-09-19T23:18:41Z" finished-at="2019-09-19T23:18:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.saucedemo.qa.testcases.HomePageTest@527740a2]" name="setUp" is-config="true" duration-ms="10917" started-at="2019-09-19T23:19:45Z" finished-at="2019-09-19T23:19:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="veriFySauceLabsBackpackPage()[pri:3, instance:com.saucedemo.qa.testcases.HomePageTest@527740a2]" name="veriFySauceLabsBackpackPage" duration-ms="616" started-at="2019-09-19T23:19:56Z" finished-at="2019-09-19T23:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veriFySauceLabsBackpackPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.HomePageTest@527740a2]" name="tearDown" is-config="true" duration-ms="682" started-at="2019-09-19T23:19:57Z" finished-at="2019-09-19T23:19:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.qa.testcases.HomePageTest -->
+      <class name="com.saucedemo.qa.testcases.YourCartPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.saucedemo.qa.testcases.YourCartPageTest@3108bc]" name="setUp" is-config="true" duration-ms="11240" started-at="2019-09-19T23:17:28Z" finished-at="2019-09-19T23:17:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHeaderTextl()[pri:1, instance:com.saucedemo.qa.testcases.YourCartPageTest@3108bc]" name="verifyHeaderTextl" duration-ms="38" started-at="2019-09-19T23:17:39Z" finished-at="2019-09-19T23:17:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHeaderTextl -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.YourCartPageTest@3108bc]" name="tearDown" is-config="true" duration-ms="694" started-at="2019-09-19T23:17:39Z" finished-at="2019-09-19T23:17:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.saucedemo.qa.testcases.YourCartPageTest@3108bc]" name="setUp" is-config="true" duration-ms="12675" started-at="2019-09-19T23:18:54Z" finished-at="2019-09-19T23:19:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnCheckoutButtonTest()[pri:2, instance:com.saucedemo.qa.testcases.YourCartPageTest@3108bc]" name="clickOnCheckoutButtonTest" duration-ms="144" started-at="2019-09-19T23:19:06Z" finished-at="2019-09-19T23:19:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCheckoutButtonTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.YourCartPageTest@3108bc]" name="tearDown" is-config="true" duration-ms="684" started-at="2019-09-19T23:19:06Z" finished-at="2019-09-19T23:19:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.qa.testcases.YourCartPageTest -->
+      <class name="com.saucedemo.qa.testcases.CheckOutPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.saucedemo.qa.testcases.CheckOutPageTest@370736d9]" name="setUp" is-config="true" duration-ms="11848" started-at="2019-09-19T23:17:40Z" finished-at="2019-09-19T23:17:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTitleTextTest()[pri:1, instance:com.saucedemo.qa.testcases.CheckOutPageTest@370736d9]" name="verifyTitleTextTest" duration-ms="51" started-at="2019-09-19T23:17:51Z" finished-at="2019-09-19T23:17:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTextTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.CheckOutPageTest@370736d9]" name="tearDown" is-config="true" duration-ms="692" started-at="2019-09-19T23:17:52Z" finished-at="2019-09-19T23:17:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.saucedemo.qa.testcases.CheckOutPageTest@370736d9]" name="setUp" is-config="true" duration-ms="11146" started-at="2019-09-19T23:19:07Z" finished-at="2019-09-19T23:19:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkoutSubmitTest()[pri:2, instance:com.saucedemo.qa.testcases.CheckOutPageTest@370736d9]" name="checkoutSubmitTest" duration-ms="717" started-at="2019-09-19T23:19:18Z" finished-at="2019-09-19T23:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutSubmitTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.CheckOutPageTest@370736d9]" name="tearDown" is-config="true" duration-ms="681" started-at="2019-09-19T23:19:19Z" finished-at="2019-09-19T23:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.qa.testcases.CheckOutPageTest -->
+      <class name="com.saucedemo.qa.testcases.CheckOutConfirmPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.saucedemo.qa.testcases.CheckOutConfirmPageTest@5f9d02cb]" name="setUp" is-config="true" duration-ms="12473" started-at="2019-09-19T23:17:52Z" finished-at="2019-09-19T23:18:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTitleTextTest()[pri:1, instance:com.saucedemo.qa.testcases.CheckOutConfirmPageTest@5f9d02cb]" name="verifyTitleTextTest" duration-ms="47" started-at="2019-09-19T23:18:05Z" finished-at="2019-09-19T23:18:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTextTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.CheckOutConfirmPageTest@5f9d02cb]" name="tearDown" is-config="true" duration-ms="704" started-at="2019-09-19T23:18:05Z" finished-at="2019-09-19T23:18:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.saucedemo.qa.testcases.CheckOutConfirmPageTest@5f9d02cb]" name="setUp" is-config="true" duration-ms="11636" started-at="2019-09-19T23:19:20Z" finished-at="2019-09-19T23:19:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPaymentInfoTest()[pri:2, instance:com.saucedemo.qa.testcases.CheckOutConfirmPageTest@5f9d02cb]" name="verifyPaymentInfoTest" duration-ms="40" started-at="2019-09-19T23:19:31Z" finished-at="2019-09-19T23:19:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPaymentInfoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.CheckOutConfirmPageTest@5f9d02cb]" name="tearDown" is-config="true" duration-ms="692" started-at="2019-09-19T23:19:31Z" finished-at="2019-09-19T23:19:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.saucedemo.qa.testcases.CheckOutConfirmPageTest@5f9d02cb]" name="setUp" is-config="true" duration-ms="14409" started-at="2019-09-19T23:19:58Z" finished-at="2019-09-19T23:20:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnfinishBtntest()[pri:3, instance:com.saucedemo.qa.testcases.CheckOutConfirmPageTest@5f9d02cb]" name="clickOnfinishBtntest" duration-ms="969" started-at="2019-09-19T23:20:12Z" finished-at="2019-09-19T23:20:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnfinishBtntest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.CheckOutConfirmPageTest@5f9d02cb]" name="tearDown" is-config="true" duration-ms="785" started-at="2019-09-19T23:20:13Z" finished-at="2019-09-19T23:20:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.qa.testcases.CheckOutConfirmPageTest -->
+      <class name="com.saucedemo.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.saucedemo.qa.testcases.LoginPageTest@6d7b4f4c]" name="setup" is-config="true" duration-ms="11787" started-at="2019-09-19T23:16:51Z" finished-at="2019-09-19T23:17:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="lginPageTitleTest()[pri:1, instance:com.saucedemo.qa.testcases.LoginPageTest@6d7b4f4c]" name="lginPageTitleTest" duration-ms="23" started-at="2019-09-19T23:17:03Z" finished-at="2019-09-19T23:17:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.LoginPageTest@6d7b4f4c]" name="tearDown" is-config="true" duration-ms="671" started-at="2019-09-19T23:17:03Z" finished-at="2019-09-19T23:17:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.saucedemo.qa.testcases.LoginPageTest@6d7b4f4c]" name="setup" is-config="true" duration-ms="9765" started-at="2019-09-19T23:18:19Z" finished-at="2019-09-19T23:18:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.saucedemo.qa.testcases.LoginPageTest@6d7b4f4c]" name="loginTest" duration-ms="979" started-at="2019-09-19T23:18:29Z" finished-at="2019-09-19T23:18:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.LoginPageTest@6d7b4f4c]" name="tearDown" is-config="true" duration-ms="684" started-at="2019-09-19T23:18:30Z" finished-at="2019-09-19T23:18:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.qa.testcases.LoginPageTest -->
+      <class name="com.saucedemo.qa.testcases.OrderFinishPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.saucedemo.qa.testcases.OrderFinishPageTest@63753b6d]" name="setUp" is-config="true" duration-ms="12728" started-at="2019-09-19T23:18:05Z" finished-at="2019-09-19T23:18:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTitleTextFinishTest()[pri:1, instance:com.saucedemo.qa.testcases.OrderFinishPageTest@63753b6d]" name="verifyTitleTextFinishTest" duration-ms="36" started-at="2019-09-19T23:18:18Z" finished-at="2019-09-19T23:18:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTextFinishTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.OrderFinishPageTest@63753b6d]" name="tearDown" is-config="true" duration-ms="681" started-at="2019-09-19T23:18:18Z" finished-at="2019-09-19T23:18:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.saucedemo.qa.testcases.OrderFinishPageTest@63753b6d]" name="setUp" is-config="true" duration-ms="12763" started-at="2019-09-19T23:19:32Z" finished-at="2019-09-19T23:19:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyGreetingsTest()[pri:2, instance:com.saucedemo.qa.testcases.OrderFinishPageTest@63753b6d]" name="verifyGreetingsTest" duration-ms="40" started-at="2019-09-19T23:19:45Z" finished-at="2019-09-19T23:19:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGreetingsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.OrderFinishPageTest@63753b6d]" name="tearDown" is-config="true" duration-ms="693" started-at="2019-09-19T23:19:45Z" finished-at="2019-09-19T23:19:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.saucedemo.qa.testcases.OrderFinishPageTest@63753b6d]" name="setUp" is-config="true" duration-ms="11817" started-at="2019-09-19T23:20:26Z" finished-at="2019-09-19T23:20:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnlogoutBtnTest()[pri:3, instance:com.saucedemo.qa.testcases.OrderFinishPageTest@63753b6d]" name="clickOnlogoutBtnTest" duration-ms="80" started-at="2019-09-19T23:20:38Z" finished-at="2019-09-19T23:20:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnlogoutBtnTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.OrderFinishPageTest@63753b6d]" name="tearDown" is-config="true" duration-ms="677" started-at="2019-09-19T23:20:38Z" finished-at="2019-09-19T23:20:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.saucedemo.qa.testcases.OrderFinishPageTest@63753b6d]" name="setUp" is-config="true" duration-ms="11820" started-at="2019-09-19T23:20:39Z" finished-at="2019-09-19T23:20:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="fakeclickOnlogoutBtnTest()[pri:4, instance:com.saucedemo.qa.testcases.OrderFinishPageTest@63753b6d]" name="fakeclickOnlogoutBtnTest" duration-ms="10518" started-at="2019-09-19T23:20:51Z" finished-at="2019-09-19T23:21:01Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='logoutsidebarlink']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GITAADHIKARI', ip: '192.168.1.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 75.0.3770.140 (2d9f97485c7b..., userDataDir: C:\Users\GITA\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:53623}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7045e5b0737957579861a313e37555b1
+*** Element info: {Using=xpath, value=//div[@id='logoutsidebarlink']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='logoutsidebarlink']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GITAADHIKARI', ip: '192.168.1.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 75.0.3770.140 (2d9f97485c7b..., userDataDir: C:\Users\GITA\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:53623}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7045e5b0737957579861a313e37555b1
+*** Element info: {Using=xpath, value=//div[@id='logoutsidebarlink']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy7.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at com.saucedemo.qa.pages.OrderFinishPage.deliberatelyfaildForScreenshot(OrderFinishPage.java:38)
+	at com.saucedemo.qa.testcases.OrderFinishPageTest.fakeclickOnlogoutBtnTest(OrderFinishPageTest.java:71)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fakeclickOnlogoutBtnTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.OrderFinishPageTest@63753b6d]" name="tearDown" is-config="true" duration-ms="687" started-at="2019-09-19T23:21:01Z" finished-at="2019-09-19T23:21:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.qa.testcases.OrderFinishPageTest -->
+    </test> <!-- Free SauceDemo App Test Cases -->
+  </suite> <!-- FREE SauceDemo Application Test Automation Test Suite -->
+</testng-results>
